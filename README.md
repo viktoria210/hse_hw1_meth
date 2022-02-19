@@ -15,3 +15,4 @@ RNA-Seq - последовательность РНК уже взрозлой м
 |Per sequence GC content     | Per sequence GC content    |
 |![SRR5836473_GC](https://user-images.githubusercontent.com/60792064/154817884-2676a33f-5f97-4b54-8f17-67e0978c6207.png) | ![SRR3414629_GC](https://user-images.githubusercontent.com/60792064/154817893-478fc873-6147-4343-bd1a-ecfc1a73b38c.png)|
 
+## Задание 2
