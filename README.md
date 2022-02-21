@@ -35,6 +35,7 @@ RNA-Seq - последовательность РНК уже взрозлой м
 |Epiblast|![Bismark M-bias Read 1 (1)](https://user-images.githubusercontent.com/60792064/155027279-21b34b58-c5b3-4708-8b3c-2f3c370906e2.png)|
 |8cell|![Bismark M-bias Read 1](https://user-images.githubusercontent.com/60792064/155027233-a789414b-1390-428c-8951-af82872cd9ef.png) |
 | ICM |![Bismark M-bias Read 1 (2)](https://user-images.githubusercontent.com/60792064/155027309-eb0ab5a4-c9e9-4225-a80a-9b68d03acddf.png)|
+
 Из графиков можем наблюдать, что есть зависимость между возрастом эмбриона мышки и уровнем CpG метилирования. 
 Чем старше мышка, тем ниже становится уровень CpG метилирования. В конце процент метилирования достигает плато, которое сохраняется втечении всей жизни мышки ( в данном случае ). 
 
