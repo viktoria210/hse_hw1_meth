@@ -29,6 +29,13 @@ RNA-Seq - последовательность РНК уже взрозлой м
 |-----------------|:---------|:------|:-----|
 |% дуплицированных|2.92%    |18.31%   |9.08% |
 
+### M-Bias Plot
+|                 | Epiblast | 8cell | ICM |
+|-----------------|:---------|:------|:-----|
+|![Bismark M-bias Read 1 (1)](https://user-images.githubusercontent.com/60792064/155027279-21b34b58-c5b3-4708-8b3c-2f3c370906e2.png)|![Bismark M-bias Read 1](https://user-images.githubusercontent.com/60792064/155027233-a789414b-1390-428c-8951-af82872cd9ef.png)  |![Bismark M-bias Read 1 (2)](https://user-images.githubusercontent.com/60792064/155027309-eb0ab5a4-c9e9-4225-a80a-9b68d03acddf.png) |
+На графиках можем наблюдать, что 
+
+
 ### Уровень метилирования и покрытия для каждого образца:
 ![image_cov_9](https://user-images.githubusercontent.com/60792064/155025544-0f9ce294-f1dc-483c-ad6e-d29c39c224d1.png)
 На графиках наблюдаем, что покрытие сконцентрировано в райноне 11 хромосомы. Уровень метилирования в случае Эпибласта выше, чем в двух двугих.
